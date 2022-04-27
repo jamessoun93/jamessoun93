@@ -1,6 +1,4 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamessoun93&show_icons=true&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&title_color=85A18D&text_color=fff&locale=kr" width=49.2% />
-</a>
+🚧
 
 <!--
 - 🔭 I’m currently working on ...
